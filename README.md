@@ -2,7 +2,7 @@
 
 -------OSCAM AUTOSCRIPT------
 
-su root wget https://raw.githubusercontent.com/gear259/oscam/master/install.sh && bash ./install.sh
+su root & wget https://raw.githubusercontent.com/gear259/oscam/master/installoscam.sh && bash ./installoscam.sh
 
 ###############################################################
 # Title:.......Automatic install/update OScam #
