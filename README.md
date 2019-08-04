@@ -2,7 +2,7 @@
 
 -------OSCAM AUTOSCRIPT------
 
-su root wget https://raw.githubusercontent.com/gear259/oscam/master/install.sh?token=AMHLAUZBIYRTEVIRM47C6KS5I5MWA && bash ./clean_install.sh
+su root wget https://raw.githubusercontent.com/gear259/oscam/master/install.sh && bash ./install.sh
 
 ###############################################################
 # Title:.......Automatic install/update OScam #
